@@ -8,10 +8,7 @@
 ## Programming Languages:
 
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c&logoColor=white)]()
 
     
